@@ -2,7 +2,7 @@
 
 A visually stunning, high-conversion SaaS landing page featuring a minimalist design, smooth animations, and a clear call-to-action for email submission.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/zaffys/apexlaunch-app)
 
 ## Key Features
 
@@ -99,7 +99,7 @@ This command will build the project and deploy it using Wrangler.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/zaffys/apexlaunch-app)
 
 ## Contributing
 
